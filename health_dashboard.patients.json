@@ -1,0 +1,123 @@
+[{
+  "_id": {
+    "$oid": "69026b9856f2265f15884087"
+  },
+  "room": "101A",
+  "wing": "ICU",
+  "patient": "Amit Patel",
+  "status": "occupied",
+  "notes": "Critical",
+  "id": "P001",
+  "dob": "1985-05-20",
+  "age": 39,
+  "sex": "Male",
+  "doctor": "Dr. Gupta",
+  "admission": "2025-10-28",
+  "diagnosis": "Myocardial Infarction",
+  "allergies": "Penicillin"
+},
+{
+  "_id": {
+    "$oid": "69026b9856f2265f15884088"
+  },
+  "room": "101B",
+  "wing": "ICU",
+  "patient": "Sunita Rao",
+  "status": "occupied",
+  "notes": "Stable",
+  "id": "P002",
+  "dob": "1992-11-10",
+  "age": 32,
+  "sex": "Female",
+  "doctor": "Dr. Sharma",
+  "admission": "2025-10-27",
+  "diagnosis": "Pneumonia",
+  "allergies": "None"
+},
+{
+  "_id": {
+    "$oid": "69026b9856f2265f15884089"
+  },
+  "room": "102A",
+  "wing": "ICU",
+  "patient": "N/A",
+  "status": "available",
+  "notes": "Ready",
+  "id": null
+},
+{
+  "_id": {
+    "$oid": "69026b9856f2265f1588408a"
+  },
+  "room": "205",
+  "wing": "Cardiology",
+  "patient": "Rajesh Kumar",
+  "status": "occupied",
+  "notes": "Post-Op",
+  "id": "P003",
+  "dob": "1968-01-30",
+  "age": 57,
+  "sex": "Male",
+  "doctor": "Dr. Gupta",
+  "admission": "2025-10-25",
+  "diagnosis": "CABG",
+  "allergies": "None"
+},
+{
+  "_id": {
+    "$oid": "69026b9856f2265f1588408b"
+  },
+  "room": "206",
+  "wing": "Cardiology",
+  "patient": "N/A",
+  "status": "cleaning",
+  "notes": "Discharge 10 AM",
+  "id": null
+},
+{
+  "_id": {
+    "$oid": "69026b9856f2265f1588408c"
+  },
+  "room": "310",
+  "wing": "Surgery",
+  "patient": "Vikram Singh",
+  "status": "occupied",
+  "notes": "Pre-Op",
+  "id": "P004",
+  "dob": "1977-07-15",
+  "age": 48,
+  "sex": "Male",
+  "doctor": "Dr. Chen",
+  "admission": "2025-10-29",
+  "diagnosis": "Appendicitis",
+  "allergies": "Latex"
+},
+{
+  "_id": {
+    "$oid": "69026b9856f2265f1588408d"
+  },
+  "room": "311",
+  "wing": "Surgery",
+  "patient": "N/A",
+  "status": "available",
+  "notes": "Ready",
+  "id": null
+},
+{
+  "_id": {
+    "$oid": "69026b9856f2265f1588408e"
+  },
+  "room": "401",
+  "wing": "Maternity",
+  "patient": "Meera Iyer",
+  "status": "occupied",
+  "notes": "Labor",
+  "id": "P005",
+  "dob": "1995-02-05",
+  "age": 30,
+  "sex": "Female",
+  "doctor": "Dr. Sharma",
+  "admission": "2025-10-29",
+  "diagnosis": "Active Labor",
+  "allergies": "None"
+}]

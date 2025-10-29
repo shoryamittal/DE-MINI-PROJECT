@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "69026b9856f2265f1588408f"
+  },
+  "id": "S001",
+  "name": "Dr. Rohan Gupta",
+  "role": "Doctor",
+  "department": "Cardiology",
+  "shift": "Day (8am - 8pm)",
+  "status": "On Shift"
+},
+{
+  "_id": {
+    "$oid": "69026b9856f2265f15884090"
+  },
+  "id": "S002",
+  "name": "Dr. Priya Sharma",
+  "role": "Doctor",
+  "department": "Maternity",
+  "shift": "Day (8am - 8pm)",
+  "status": "On Shift"
+},
+{
+  "_id": {
+    "$oid": "69026b9856f2265f15884091"
+  },
+  "id": "S003",
+  "name": "Dr. David Chen",
+  "role": "Doctor",
+  "department": "Surgery",
+  "shift": "Day (8am - 8pm)",
+  "status": "On Shift"
+},
+{
+  "_id": {
+    "$oid": "69026b9856f2265f15884092"
+  },
+  "id": "S004",
+  "name": "Dr. Alok Verma",
+  "role": "Doctor",
+  "department": "ICU",
+  "shift": "Night (8pm - 8am)",
+  "status": "On Call"
+},
+{
+  "_id": {
+    "$oid": "69026b9856f2265f15884093"
+  },
+  "id": "S005",
+  "name": "Anita Desai",
+  "role": "Nurse",
+  "department": "ICU",
+  "shift": "Day (7am - 7pm)",
+  "status": "On Shift"
+},
+{
+  "_id": {
+    "$oid": "69026b9856f2265f15884094"
+  },
+  "id": "S006",
+  "name": "Sanjay Patil",
+  "role": "Nurse",
+  "department": "ICU",
+  "shift": "Day (7am - 7pm)",
+  "status": "On Shift"
+},
+{
+  "_id": {
+    "$oid": "69026b9856f2265f15884095"
+  },
+  "id": "S007",
+  "name": "Deepa Mehta",
+  "role": "Nurse",
+  "department": "Cardiology",
+  "shift": "Day (7am - 7pm)",
+  "status": "On Shift"
+},
+{
+  "_id": {
+    "$oid": "69026b9856f2265f15884096"
+  },
+  "id": "S008",
+  "name": "Ravi Kumar",
+  "role": "Nurse",
+  "department": "Surgery",
+  "shift": "Day (7am - 7pm)",
+  "status": "On Shift"
+},
+{
+  "_id": {
+    "$oid": "69026b9856f2265f15884097"
+  },
+  "id": "S009",
+  "name": "Lakshmi Nair",
+  "role": "Nurse",
+  "department": "Maternity",
+  "shift": "Day (7am - 7pm)",
+  "status": "On Shift"
+},
+{
+  "_id": {
+    "$oid": "69026b9856f2265f15884098"
+  },
+  "id": "S010",
+  "name": "Vikram Solanki",
+  "role": "Nurse",
+  "department": "ICU",
+  "shift": "Night (7pm - 7am)",
+  "status": "Off Duty"
+},
+{
+  "_id": {
+    "$oid": "69026b9856f2265f15884099"
+  },
+  "id": "S011",
+  "name": "Pooja Bhatt",
+  "role": "Nurse",
+  "department": "Cardiology",
+  "shift": "Night (7pm - 7am)",
+  "status": "Off Duty"
+}]
